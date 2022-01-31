@@ -1,7 +1,7 @@
 # versionamento2
 versionamento2
 
-Está é a Branch master 
+### Está é a Branch master 
 
 A seguir irei inserir um texto fictício.
 
@@ -30,10 +30,10 @@ sem emitir um som que fosse impuro
 nem um clarão maior que o tolerável
 
 pelas pupilas gastas na inspeção
-contínua e dolorosa do deserto,
+contínua e dolorosa do deserto,        
 e pela mente exausta de mentar
 
-toda uma realidade que transcende
+toda uma realidade que transcende    
 a própria imagem sua debuxada
 no rosto do mistério, nos abismos.
 
@@ -48,3 +48,5 @@ os mesmos sem roteiro tristes périplos,
 convidando-os a todos, em coorte,
 a se aplicarem sobre o pasto inédito
 da natureza mítica das coisas.
+
+Comentário: Foram criadas três branchs, a terceira para inserir os comentérios.
